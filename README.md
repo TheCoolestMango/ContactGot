@@ -7,5 +7,7 @@ ContactGot is an offline desktop app, where clients can leave their info, while 
 
 ## 2. Credits
 Egor Gorozhankin - backend development (@Egor_Gorozhankin)
+
 Evgeny Panov - documantation, art design (@Kayzera)
+
 Elizaveta Kovanova - frontend development, management (@thecoolestmango)
