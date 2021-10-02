@@ -18,11 +18,15 @@ _________________________________________
 
 ## 3. Getting started
 
-After launching the .exe file the main window will show up, where the user sets up the name of the form and includes the desired columns (in a form of a chechbox)
+After launching the .exe file the main window will show up, where the user:
+* sets up the name of the form 
+* includes the desired columns (in a form of a chechbox)
 
 ![image](https://user-images.githubusercontent.com/69856251/135715416-81aff08c-9802-4864-8d2b-5e2c2baf38a9.png)
 
-Then in the session window the user inputs the chosen fields and either saves the progress, or saves and closes the application
+Then in the session window:
+* the user inputs the chosen fields
+* either saves the progress, or saves and closes the application
 
 ![image](https://user-images.githubusercontent.com/69856251/135715426-94a3d7ec-d81b-4e7b-96dd-fb59e78e9931.png)
 _________________________________________
