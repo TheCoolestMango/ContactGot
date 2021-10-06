@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>647</width>
+    <height>421</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,22 +16,29 @@
   <widget class="QWidget" name="gridLayoutWidget">
    <property name="geometry">
     <rect>
-     <x>120</x>
+     <x>200</x>
      <y>70</y>
-     <width>169</width>
-     <height>120</height>
+     <width>241</width>
+     <height>284</height>
     </rect>
    </property>
    <layout class="QGridLayout" name="gridLayout">
-    <item row="2" column="0">
-     <widget class="QLabel" name="label_3">
+    <item row="6" column="1">
+     <widget class="QPushButton" name="finishButton">
       <property name="text">
-       <string>phone</string>
+       <string>Закончить</string>
       </property>
      </widget>
     </item>
     <item row="1" column="1">
      <widget class="QLineEdit" name="emailLineEdit"/>
+    </item>
+    <item row="3" column="0">
+     <widget class="QCheckBox" name="isBachelor">
+      <property name="text">
+       <string>Бакалавриат</string>
+      </property>
+     </widget>
     </item>
     <item row="1" column="0">
      <widget class="QLabel" name="label_2">
@@ -40,8 +47,38 @@
       </property>
      </widget>
     </item>
+    <item row="2" column="0">
+     <widget class="QCheckBox" name="isApplicant">
+      <property name="text">
+       <string>Абитуриент</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QCheckBox" name="isParent">
+      <property name="text">
+       <string>Родитель</string>
+      </property>
+     </widget>
+    </item>
     <item row="0" column="1">
      <widget class="QLineEdit" name="fioLineEdit"/>
+    </item>
+    <item row="4" column="1">
+     <widget class="QCheckBox" name="isOlimp">
+      <property name="text">
+       <string>Подготовка к
+олипиадам</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QCheckBox" name="isApply">
+      <property name="text">
+       <string>Подготовка к
+поступлению</string>
+      </property>
+     </widget>
     </item>
     <item row="0" column="0">
      <widget class="QLabel" name="label">
@@ -50,20 +87,28 @@
       </property>
      </widget>
     </item>
-    <item row="2" column="1">
-     <widget class="QLineEdit" name="phoneLineEdit"/>
+    <item row="3" column="1">
+     <widget class="QCheckBox" name="isMaster">
+      <property name="text">
+       <string>Магистратура</string>
+      </property>
+     </widget>
     </item>
-    <item row="3" column="0">
+    <item row="6" column="0">
      <widget class="QPushButton" name="saveButton">
       <property name="text">
        <string>Сохранить</string>
       </property>
      </widget>
     </item>
-    <item row="3" column="1">
-     <widget class="QPushButton" name="finishButton">
+    <item row="5" column="1">
+     <widget class="QTextEdit" name="additionalInfo"/>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="label_3">
       <property name="text">
-       <string>Закончить</string>
+       <string>Дополнительная
+информация</string>
       </property>
      </widget>
     </item>
