@@ -52,7 +52,7 @@ Operation system - Windows 10 and newer.
 
 Documentation of the software can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md).
 
-**Overview:**
+**Contents of the documentation also included below:**
 * [Glossary](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md#glossary)
 * [Stakeholders](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md#stakeholders)
 * [User Stories](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md#user-stories)
@@ -63,7 +63,7 @@ _________________________________________
 
 Documentation of the software's design can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md).
 
-**Overview:**
+**Contents of the documentation also included below:**
 * [UML Class Diagram](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md#uml-class-diagram)
 * [UML Sequence Diagram](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md#uml-sequence-diagram)
 * [SOLID principles](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md#solid-principles)
