@@ -3,13 +3,13 @@ __________
 
 ## UML Class Diagram
 
-![umlclass](https://user-images.githubusercontent.com/69856251/136704829-10233050-3a2a-4c6c-8106-a671f79d8d6a.png)
+[umlclass.pdf](https://github.com/TheCoolestMango/ContactGot/files/7317833/umlclass.pdf)
 
 _______________
 
 ## UML Sequence Diagram
 
-![seq diag drawio](https://user-images.githubusercontent.com/69856251/136702314-d92d7aa9-1934-417a-bbb2-58c347843e84.png)
+[seq diag.pdf](https://github.com/TheCoolestMango/ContactGot/files/7317834/seq.diag.pdf)
 
 ___________________
 
