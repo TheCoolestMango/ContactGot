@@ -32,7 +32,7 @@ Operation system - Windows 10 and newer.
 
 ## Documentation
 
-Documentation of the software can be found [here](https://github.com/TheCoolestMango/ContactGot/Documentation/Artifacts.md).
+Documentation of the software can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md).
 **Overview:**
 * Glossary
 * Stakeholders
@@ -42,7 +42,7 @@ _________________________________________
 
 ## 4. Design
 
-Documentation of the software's design can be found [here](https://github.com/TheCoolestMango/ContactGot/Documentation/Design.md).
+Documentation of the software's design can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md).
 **Overview:**
 * UML Class Diagramm
 * UML Sequence Diagram
@@ -52,7 +52,7 @@ _________________________________________
 
 ## 5. Architecture
 
-Documentation of the software's architecture can be found [here](https://github.com/TheCoolestMango/ContactGot/Documentation/Architecture.md).
+Documentation of the software's architecture can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Architecture.md).
 **Overview:**
 * Static View Diagramm
 * Dynamic View Diagram
