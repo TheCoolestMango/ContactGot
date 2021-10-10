@@ -83,3 +83,6 @@ __________________________________
 ## 6. Demonstration
 
 The demonstration video can be found [here on YouTube](https://youtu.be/GJbC2IC2GZQ)
+
+![image](https://user-images.githubusercontent.com/69856251/136708968-a7b0895d-5b74-48de-9a51-c6673d63511b.png)
+
