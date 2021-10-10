@@ -16,7 +16,7 @@ Installation:
 
 _________________________________________
 
-## 3. Getting started
+## 3. How to use
 
 After launching the .exe file the main window will show up, where the user:
 * sets up the name of the form 
