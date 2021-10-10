@@ -66,3 +66,7 @@ Documentation of the software's architecture can be found [here](https://github.
 **Overview:**
 * Static View Diagram
 * Dynamic View Diagram
+
+__________________________________
+
+## 6. Demo
