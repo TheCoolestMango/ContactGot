@@ -4,19 +4,9 @@
 During different IT-events it is often impossible for most people to collect information about participants using Google Forms due tot the fact, that the Internet in large open spaces is very weak. Meanwhile, using Google Sheets for gathering personal information makes the information vulnurable and visible to other people.
 
 ContactGot is an offline desktop app, where clients can leave their info, while an administrator can manage which information they need to gather on certain projects.
+_______________________________________________
 
-_________________________________________
-
-## 2. Requirements and installation
-Operation system - Windows 10 and newer.
-
-Installation:
-* Download the files
-* Launch the .exe file (the project folder may be located in your Downloads folder)
-
-_________________________________________
-
-## 3. How to use
+## 2. How to use
 
 After launching the .exe file the main window will show up, where the user:
 * sets up the name of the form 
@@ -30,9 +20,39 @@ Then in the session window:
 
 ![image](https://user-images.githubusercontent.com/69856251/135715426-94a3d7ec-d81b-4e7b-96dd-fb59e78e9931.png)
 _________________________________________
-## 4. Credits
-Egor Gorozhankin - backend development ([@Egor_Gorozhankin](https://t.me/Egor_Gorozhankin))
 
-Evgeny Panov - documantation, art design ([@Kayzera](https://t.me/Kayzera))
+## 3. Requirements 
 
-Elizaveta Kovanova - frontend development, management ([@thecoolestmango](https://t.me/thecoolestmango))
+### Installation
+
+Operation system - Windows 10 and newer.
+
+* Download the files from the repository
+* Launch the .exe file (the project folder may be located in your Downloads folder)
+
+## Documentation
+
+Documentation of the software can be found [here](https://github.com/TheCoolestMango/ContactGot/Documentation/Artifacts).
+**Overview:**
+* Glossary
+* Stakeholders
+* User Stories
+* Non-functional requirements
+_________________________________________
+
+## 4. Design
+
+Documentation of the software's design can be found [here](https://github.com/TheCoolestMango/ContactGot/Documentation/Design).
+**Overview:**
+* UML Class Diagramm
+* UML Sequence Diagram
+* SOLID principles
+* Design patterns
+_________________________________________
+
+## 5. Architecture
+
+Documentation of the software's architecture can be found [here](https://github.com/TheCoolestMango/ContactGot/Documentation/Architecture).
+**Overview:**
+* Static View Diagramm
+* Dynamic View Diagram
