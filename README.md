@@ -27,15 +27,16 @@ _______________________________________________
 
 After launching the .exe file the main window will show up, where the user:
 * sets up the name of the form 
-* includes the desired columns (in a form of a chechbox)
 
-![image](https://user-images.githubusercontent.com/69856251/135715416-81aff08c-9802-4864-8d2b-5e2c2baf38a9.png)
+![image](https://user-images.githubusercontent.com/69856251/136708852-20cea34d-1d22-4742-b11a-19eaf7275981.png)
 
 Then in the session window:
-* the user inputs the chosen fields
+* the user inputs the mandatory fields
+* includes level of preparation of a participant
+* writes additional information if necessary
 * either saves the progress, or saves and closes the application
 
-![image](https://user-images.githubusercontent.com/69856251/135715426-94a3d7ec-d81b-4e7b-96dd-fb59e78e9931.png)
+![image](https://user-images.githubusercontent.com/69856251/136708853-af446c11-77af-4266-94bf-9e6db9ed5219.png)
 _________________________________________
 
 ## 3. Requirements Engineering
