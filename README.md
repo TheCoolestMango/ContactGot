@@ -64,10 +64,10 @@ _________________________________________
 Documentation of the software's design can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md).
 
 **Overview:**
-* UML Class Diagram
-* UML Sequence Diagram
-* SOLID principles
-* Design patterns
+* [UML Class Diagram](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md#uml-class-diagram)
+* [UML Sequence Diagram](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md#uml-sequence-diagram)
+* [SOLID principles](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md#solid-principles)
+* [Design patterns](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md#design-patterns)
 _________________________________________
 
 ## 5. Architecture
