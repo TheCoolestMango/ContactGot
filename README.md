@@ -1,14 +1,14 @@
 # ContactGot
 
 ## Contents
-* [Description](#description)
-* [How to use](#how-to-use)
-* [Requirements Engineering](#requirements)
+* [Description](#1-description)
+* [How to use](#2-how-to-use)
+* [Requirements Engineering](#3-requirements)
    * [Installation](#installation)
-   * [Documentation](#documantation)
-* [Design](#design)
-* [Architecture](#architecture)
-* [Demonstration](#demonstration)
+   * [Documentation](#documentation)
+* [Design](#4-design)
+* [Architecture](#5-architecture)
+* [Demonstration](#6-demonstration)
 
 ## 1. Description
 During different IT-events it is often impossible for most people to collect information about participants using Google Forms due tot the fact, that the Internet in large open spaces is very weak. Meanwhile, Microsoft Excel is not available for free and using Google Sheets for gathering personal information makes the information vulnurable and visible to other people.
