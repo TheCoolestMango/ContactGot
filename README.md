@@ -53,10 +53,10 @@ Operation system - Windows 10 and newer.
 Documentation of the software can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md).
 
 **Overview:**
-* Glossary
-* Stakeholders
-* User Stories
-* Non-functional requirements
+* [Glossary](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md#glossary)
+* [Stakeholders](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md#stakeholders)
+* [User Stories](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md#user-stories)
+* [Non-functional requirements](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md#non-functional-requirements)
 _________________________________________
 
 ## 4. Design
