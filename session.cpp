@@ -1,8 +1,6 @@
 #include "session.h"
 #include "ui_session.h"
 #include "mainwindow.h"
-#include <QTextStream>
-#include <QFile>
 
 Session::Session(QWidget *parent) :
     QWidget(parent),
@@ -16,6 +14,7 @@ Session::~Session()
     delete ui;
 }
 
+//The on_fioLineEdit_textEdited, on_emailLineEdit_textEdited and on_additionalInfo_textChanged methods are to receive text fields if the user changes them
 void Session::on_fioLineEdit_textEdited(const QString &arg1)
 {
     this->fio = arg1;
@@ -26,6 +25,14 @@ void Session::on_emailLineEdit_textEdited(const QString &arg1)
     this->email = arg1;
 }
 
+void Session::on_additionalInfo_textChanged()
+{
+    this->additionalInfo = ui->additionalInfo->toPlainText();
+}
+
+//all stateChanged methods are to get the state of the QCheckBox when the user's states change.
+//since the boxes (Абитуриент and Родитель) or (Бакалавриат and Магистратура) cannot be clicked at the same time,
+//if a conflict occurs, the user's last selection is retained while another QCheckBox becomes visually unselected
 void Session::on_isApplicant_stateChanged(int arg1)
 {
     if (arg1 == Qt::Checked){
@@ -84,16 +91,13 @@ void Session::on_isOlimp_stateChanged(int arg1)
     }
 }
 
-void Session::on_additionalInfo_textChanged()
-{
-    this->additionalInfo = ui->additionalInfo->toPlainText();
-}
-
+//get the file name from the main window and define to the class responsible for handling the files
 void Session::setEventName(QString name)
 {
     this->db.define_name(name);
 }
 
+//clearing all fields after the session is over
 void Session::toDefault(){
     fio = "";
     email = "";
@@ -114,13 +118,14 @@ void Session::toDefault(){
     ui->additionalInfo->setText("");
 }
 
+//sending to record the values received from the user and clearing the fields for the new user
 void Session::on_saveButton_clicked()
 {
-    db.add_request(QStringList{fio, email, status, degree, apply, olimp, additionalInfo});
+    db.add_record(QStringList{fio, email, status, degree, apply, olimp, additionalInfo});
     toDefault();
 }
 
-
+//saving user fields, hiding the session window and calling up the main window
 void Session::on_finishButton_clicked()
 {
     on_saveButton_clicked();

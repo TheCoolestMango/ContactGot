@@ -3,7 +3,6 @@
 
 #include <QString>
 #include <QFile>
-#include <QTextCodec>
 #include <QMap>
 
 class SCV_work
@@ -11,7 +10,7 @@ class SCV_work
 public:
     SCV_work();
     void define_name(QString);
-    void add_request(QStringList);
+    void add_record(QStringList);
     void delete_name();
     QString translate(QString);
     QMap<QString, QString> toTranslit;

@@ -1,10 +1,9 @@
 #ifndef SESSION_H
 #define SESSION_H
 
+#include "scv_work.h"
 #include <QWidget>
 #include <QString>
-#include "scv_work.h"
-#include <QStringList>
 
 namespace Ui {
 class Session;
@@ -50,7 +49,6 @@ private:
     Ui::Session *ui;
     SCV_work db;
     QString fio, email, status, degree, apply, olimp, additionalInfo;
-//    QStringList personal_info;
 };
 
 #endif // SESSION_H
