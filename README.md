@@ -86,5 +86,5 @@ __________________________________
 
 The demonstration video can be found [here on YouTube](https://youtu.be/GJbC2IC2GZQ)
 
-![image](https://user-images.githubusercontent.com/69856251/136708996-5797bfc8-513d-46a2-b8e2-bc85857ff15e.png)
+[![image](https://user-images.githubusercontent.com/69856251/136708996-5797bfc8-513d-46a2-b8e2-bc85857ff15e.png)](https://youtu.be/GJbC2IC2GZQ)
 
