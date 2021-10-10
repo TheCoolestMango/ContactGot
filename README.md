@@ -4,8 +4,8 @@
 * [Description](#description)
 * [How to use](#how-to-use)
 * [Requirements Engineering](#requirements-engineering)
-  * [Installation](#installation)
-  * [Documentation](#documantation)
+   * [Installation](#installation)
+   * [Documentation](#documantation)
 * [Design](#design)
 * [Architecture](#architecture)
 * [Demonstration](#demonstration)
@@ -47,7 +47,7 @@ Operation system - Windows 10 and newer.
 * Download the files from the repository
 * Launch the .exe file (the project folder may be located in your Downloads folder)
 
-## Documentation
+### Documentation
 
 Documentation of the software can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Artifacts.md).
 
