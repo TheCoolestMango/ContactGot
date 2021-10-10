@@ -53,7 +53,7 @@ _________________________________________
 Documentation of the software's design can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Design.md).
 
 **Overview:**
-* UML Class Diagramm
+* UML Class Diagram
 * UML Sequence Diagram
 * SOLID principles
 * Design patterns
@@ -64,5 +64,5 @@ _________________________________________
 Documentation of the software's architecture can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Architecture.md).
 
 **Overview:**
-* Static View Diagramm
+* Static View Diagram
 * Dynamic View Diagram
