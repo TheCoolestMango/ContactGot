@@ -4,7 +4,10 @@ _____________
 ## Glossary
 Name | Description
 -----|------------
-Table Creator | A program which creates a .csv file based on the input
+Table Editor | A program which creates a .csv file based on the input
+Off-line | Software working on the machine without the access to Internet
+Session | Information interchange, where the user inputs the information into the input boxes
+Main window | The app window, where the user creates the table and chooses the desired input information
 
 ## Stakeholders
 Egor Gorozhankin - backend development, testing ([@Egor_Gorozhankin](https://t.me/Egor_Gorozhankin))
