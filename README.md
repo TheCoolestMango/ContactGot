@@ -7,9 +7,9 @@ ContactGot is an offline desktop app, where clients can leave their info, while 
 
 ____________________________
 
-Currently project is developed for _Innopolis Admittion_
-
-![image](https://user-images.githubusercontent.com/69856251/136701231-57a6068a-47bd-4884-8d24-d902d69ffd5e.png)
+ | Currently project is developed for _Innopolis Admittion_ |
+-|--------------------------------------------------------|-
+| ![image](https://user-images.githubusercontent.com/69856251/136701231-57a6068a-47bd-4884-8d24-d902d69ffd5e.png) | 
 
 _______________________________________________
 
