@@ -72,11 +72,13 @@ _________________________________________
 
 ## 5. Architecture
 
-Documentation of the software's architecture can be found [here](https://github.com/TheCoolestMango/ContactGot/blob/main/Documentation/Architecture.md).
-
-**Overview:**
 * Static View Diagram
+
+![image](https://user-images.githubusercontent.com/69856251/136709390-f20d8d6e-84cb-4780-af91-6ea1c71aadfb.png)
+
 * Dynamic View Diagram
+
+![image](https://user-images.githubusercontent.com/69856251/136709394-7949ea31-e297-4848-829b-0f2a55341af0.png)
 
 __________________________________
 
